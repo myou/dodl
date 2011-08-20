@@ -1,0 +1,73 @@
+.emptySquare
+{
+    border-style:solid;
+    border-width:2px;
+    border-color:black;
+
+    height:50px;
+    width:50px;
+    margin:0px;
+}
+
+.pos1
+{
+	position:fixed;
+	left:40px;
+	top:40px;
+}
+
+.pos2
+{
+	position:fixed;
+	left:100px;
+	top:40px;
+}
+
+.pos3
+{
+	position:fixed;
+	left:160px;
+	top:40px;
+}
+
+.pos4
+{
+	position:fixed;
+	left:40px;
+	top:100px;
+}
+
+.pos5
+{
+	position:fixed;
+	left:100px;
+	top:100px;
+}
+
+.pos6
+{
+	position:fixed;
+	left:160px;
+	top:100px;
+}
+
+.pos7
+{
+	position:fixed;
+	left:40px;
+	top:160px;
+}
+
+.pos8
+{
+	position:fixed;
+	left:100px;
+	top:160px;
+}
+
+.pos9
+{
+	position:fixed;
+	left:160px;
+	top:160px;
+}

@@ -1,0 +1,56 @@
+ul
+{
+	list-style-type:	none;
+}
+
+li
+{
+	padding: 3px;
+}
+
+a
+{
+	color: blue;
+	padding: 3px 3px;
+}
+
+a.selected
+{
+	color:	white;
+	background:	gray;
+	text-decoration: none;
+}
+
+#sidebar
+{
+	position:	fixed;
+	top:	15px;
+	left:	20px;
+	
+	height:	200px;
+	width:	220px;
+}
+
+#vrule
+{
+	position:	fixed;
+	left:	235px;
+	
+	height:	500px;
+	width:	3px;
+}
+
+#mainpanel
+{
+	position:	fixed;
+	top:		15px;
+	left:		250px;
+	
+	height:	1800px;
+	width:	400px;
+}
+
+.classpanel
+{
+	margin-bottom:	25px;
+}
